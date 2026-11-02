@@ -1,0 +1,5 @@
+aiohttp
+dnspython
+rich
+phonenumbers
+Pillow
